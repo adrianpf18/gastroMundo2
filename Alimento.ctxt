@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Alimento
+comment1.params=nombre\ calorias\ tipo
+comment1.target=Alimento(java.lang.String,\ int,\ java.lang.String)
+numComments=2
