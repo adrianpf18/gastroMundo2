@@ -11,4 +11,20 @@ public class Persona {
         this.edad = edad;
         this.dieta = new ArrayList<>();
     }
+    
+    public String getNombre() {
+        return nombre;
+    }
+    
+    public int getEdad() {
+        return edad;
+    }
+    
+    public void setNombre(String nuevoNombre) {
+        this.nombre = nuevoNombre;
+    }
+    
+    public void setEdad(int nuevaEdad) {
+        this.edad = nuevaEdad;
+    }
 }
