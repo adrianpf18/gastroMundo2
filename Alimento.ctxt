@@ -2,4 +2,16 @@
 comment0.target=Alimento
 comment1.params=nombre\ calorias\ tipo
 comment1.target=Alimento(java.lang.String,\ int,\ java.lang.String)
-numComments=2
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=int\ getCalorias()
+comment4.params=
+comment4.target=java.lang.String\ getTipoAlimento()
+comment5.params=nuevoNombre
+comment5.target=void\ setNombre(java.lang.String)
+comment6.params=nuevasCalorias
+comment6.target=void\ setCalorias(int)
+comment7.params=nuevoTipo
+comment7.target=void\ setTipo(java.lang.String)
+numComments=8
